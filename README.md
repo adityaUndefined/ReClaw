@@ -2,11 +2,11 @@
 
 > **PRISM Hackathon 2026 | Theme 2: Daily Utility (Smartphones)**
 > **Variant Used: PicoClaw (OpenClaw family)**
-> **Team:** `<YourCollege>_ReClaw`
+> **Team:** `MS Ramaiah Institute of Technology_OffGrid`
 
 ## 🎬 Demo Video
 
-▶️ **[Watch the Demo Video](YOUR_VIDEO_LINK_HERE)** — Full walkthrough showing Telegram master-slave control, profile switching, commute planning, notification digest, and on-device AI.
+▶️ **[Watch the Demo Video](https://drive.google.com/drive/folders/1FOFfDPJjOPysMSvwJmd__ZJfvzm4hSYN)** — Full walkthrough showing Telegram master-slave control, profile switching, commute planning, notification digest, and on-device AI.
 
 ---
 
