@@ -1,8 +1,5 @@
 # 🦞 ReClaw — Revive Your Old Smartphone with AI
 
-> **PRISM Hackathon 2026 | Theme 2: Daily Utility (Smartphones)**
-> **Team:** `MSRIT_OffGrid` — MS Ramaiah Institute of Technology
-
 [![Demo Video](https://img.shields.io/badge/▶️_Demo_Video-Google_Drive-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/drive/folders/1FOFfDPJjOPysMSvwJmd__ZJfvzm4hSYN)
 
 ---
@@ -337,8 +334,5 @@ ReClaw/
 ---
 
 <p align="center">
-  <b>Team OffGrid — MS Ramaiah Institute of Technology</b><br>
-  PRISM Hackathon 2026<br><br>
-  <i>Giving old phones a new brain. 🧠📱</i><br><br>
   Built with: PyTorch · TorchAO · ExecuTorch · llama.cpp · Qwen3 · Termux
 </p>
