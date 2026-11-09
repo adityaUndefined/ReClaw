@@ -279,7 +279,7 @@ All commands work in both **Terminal** and **Telegram**.
 ```
 ReClaw/
 ├── README.md                        # This file
-├── ReClaw_Presentation.pptx         # Hackathon PPT (10 slides)
+├── ReClaw_Presentation.pptx         # PPT (10 slides)
 ├── ReClaw_Architecture.png          # System architecture diagram
 ├── ReClaw_Proposal.pdf              # Project proposal
 ├── ReClaw_Skills_Reference.pdf      # Skills documentation
